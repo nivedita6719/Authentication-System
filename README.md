@@ -345,3 +345,4 @@ This project is for educational purposes.
 
 
 
+Update: Day 6 – JWT auth implemented and tested via Postman.
